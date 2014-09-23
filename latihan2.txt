@@ -1,0 +1,2 @@
+1.ini adalah file kedua dan akan di lanjut kan ke file lain
+2.baris ke dua
