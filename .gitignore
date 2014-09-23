@@ -1,5 +1,4 @@
 .DS_Store
 .local.env.php
-temp/
 temp/*.txt
 !temp/master.txt
